@@ -1,0 +1,34 @@
+ body {
+            background-image: url(wallpaper.jpeg); 
+            background-size: cover; 
+            background-repeat: no-repeat; 
+            background-position: center; 
+            background-image: url(hehe.gif);
+        }
+        
+.header {
+            background-color: darkgreen;
+            color: limegreen;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+        .content {
+           padding: 20px;
+           background-color: grey; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: .8; 
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+     .btn-primary{
+        background-color: darkred;
+     }
+     .footer{
+        color: white;
+     }
+
+
